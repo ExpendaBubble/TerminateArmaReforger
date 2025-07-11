@@ -3,6 +3,7 @@ A simple AutoIt v3 utility that terminates Arma Reforger while saving your slot 
 
 Useful for the following scenarios:
 * You live in a country with inconsistent power supply, and use a UPS.
+* Arma Reforger just froze up on you, and you can't close it normally.
 * You want to stack a certain team with all your friends, but there's no room on the team. (less ethical)
 
 ## How to get the utlity

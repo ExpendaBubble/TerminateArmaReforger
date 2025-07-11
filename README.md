@@ -8,7 +8,6 @@ Useful for the following scenarios:
 
 ## How to get the utlity
 If you don't trust random .exe's found on the internet, follow these steps:
-
 * Take a look at the [script](https://github.com/ExpendaBubble/TerminateArmaReforger/blob/main/TerminateArmaReforger.au3) and make sure there's no funny business.
 * Clone or [download](https://github.com/ExpendaBubble/TerminateArmaReforger/archive/refs/heads/main.zip) and extract this repository.
 * Download and install [AutoIt](https://www.autoitscript.com/site/autoit/downloads/).

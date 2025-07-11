@@ -11,7 +11,7 @@ If you don't trust random .exe's found on the internet, follow these steps:
 * Take a look at the [script](https://github.com/ExpendaBubble/TerminateArmaReforger/blob/main/TerminateArmaReforger.au3) and make sure there's no funny business.
 * Clone or [download](https://github.com/ExpendaBubble/TerminateArmaReforger/archive/refs/heads/main.zip) and extract this repository.
 * Download and install [AutoIt](https://www.autoitscript.com/site/autoit/downloads/).
-* Run **Compiile Script to .exe**.
+* Run **Compile Script to .exe**.
 * Click the first Browse button to select the .au3 file.
 * Click the second Browse button to select where you want to save the compiled .exe file.
 * click the third Browse button to select the .ico file. You can also use your own icon, or not use one at all. I prefer unicorns.
